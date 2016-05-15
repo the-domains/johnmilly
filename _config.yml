@@ -1,0 +1,28 @@
+name: Johnmilly
+favicon: null
+layout_spectrum: 0.8122379153501242
+typography_spectrum: 0.6169781708158553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2624608932528645
+  lightness: 0.16436945740133524
+  saturation: 0.6214121889788657
+  rhythmicContrast: 0.8678458577487618
+purpose: []
